@@ -1,0 +1,15 @@
+C:\Users\meylis.berdiyev\source\repos\MazeReDo\bin\Debug\net6.0\MazeReDo.exe
+C:\Users\meylis.berdiyev\source\repos\MazeReDo\bin\Debug\net6.0\MazeReDo.deps.json
+C:\Users\meylis.berdiyev\source\repos\MazeReDo\bin\Debug\net6.0\MazeReDo.runtimeconfig.json
+C:\Users\meylis.berdiyev\source\repos\MazeReDo\bin\Debug\net6.0\MazeReDo.dll
+C:\Users\meylis.berdiyev\source\repos\MazeReDo\bin\Debug\net6.0\MazeReDo.pdb
+C:\Users\meylis.berdiyev\source\repos\MazeReDo\obj\Debug\net6.0\MazeReDo.csproj.AssemblyReference.cache
+C:\Users\meylis.berdiyev\source\repos\MazeReDo\obj\Debug\net6.0\MazeReDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meylis.berdiyev\source\repos\MazeReDo\obj\Debug\net6.0\MazeReDo.AssemblyInfoInputs.cache
+C:\Users\meylis.berdiyev\source\repos\MazeReDo\obj\Debug\net6.0\MazeReDo.AssemblyInfo.cs
+C:\Users\meylis.berdiyev\source\repos\MazeReDo\obj\Debug\net6.0\MazeReDo.csproj.CoreCompileInputs.cache
+C:\Users\meylis.berdiyev\source\repos\MazeReDo\obj\Debug\net6.0\MazeReDo.dll
+C:\Users\meylis.berdiyev\source\repos\MazeReDo\obj\Debug\net6.0\refint\MazeReDo.dll
+C:\Users\meylis.berdiyev\source\repos\MazeReDo\obj\Debug\net6.0\MazeReDo.pdb
+C:\Users\meylis.berdiyev\source\repos\MazeReDo\obj\Debug\net6.0\MazeReDo.genruntimeconfig.cache
+C:\Users\meylis.berdiyev\source\repos\MazeReDo\obj\Debug\net6.0\ref\MazeReDo.dll
